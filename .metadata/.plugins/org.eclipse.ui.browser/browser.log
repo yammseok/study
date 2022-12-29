@@ -1,0 +1,123 @@
+
+11월 30, 2022 17:22:14.762 NEW SESSION
+11월 30, 2022 17:22:14.762 [9192:12948:1130/172214.761:ERROR:device_event_log_impl.cc(215)] [17:22:14.761] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+11월 30, 2022 17:23:12.737 [9192:9816:1130/172312.737:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+11월 30, 2022 17:23:59.510 [4544:11052:1130/172359.510:ERROR:device_event_log_impl.cc(215)] [17:23:59.509] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+11월 30, 2022 17:24:29.469 [3764:13348:1130/172429.469:ERROR:device_event_log_impl.cc(215)] [17:24:29.469] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+11월 30, 2022 17:25:27.29 [3764:8032:1130/172527.029:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+12월 01, 2022 10:45:46.406 NEW SESSION
+12월 01, 2022 10:45:46.406 [5864:3564:1201/104546.405:ERROR:device_event_log_impl.cc(215)] [10:45:46.405] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 01, 2022 10:46:44.390 [5864:13184:1201/104644.390:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 01, 2022 15:46:44.406 [5864:10404:1201/154644.405:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 01, 2022 17:00:17.355 [6952:6860:1201/170017.355:ERROR:device_event_log_impl.cc(215)] [17:00:17.354] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 01, 2022 17:01:15.178 [6952:12452:1201/170115.178:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 01, 2022 17:33:37.226 [12388:14056:1201/173337.226:ERROR:device_event_log_impl.cc(215)] [17:33:37.226] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 01, 2022 17:34:35.51 [12388:8752:1201/173435.051:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 01, 2022 17:41:14.330 [12388:12292:1201/174114.329:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for sourcerer.io failed:
+12월 01, 2022 17:41:14.330 ----- Certificate i=0 (CN=sourcerer.io,OU=PositiveSSL Multi-Domain,OU=Domain Control Validated) -----
+12월 01, 2022 17:41:14.331 ERROR: Time is after notAfter
+12월 01, 2022 17:41:14.331 
+12월 01, 2022 17:41:14.331 
+
+12월 02, 2022 14:53:08.244 NEW SESSION
+12월 02, 2022 14:53:08.244 [10372:11440:1202/145308.243:ERROR:device_event_log_impl.cc(215)] [14:53:08.243] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 02, 2022 14:54:05.623 [10372:10104:1202/145405.623:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 02, 2022 14:55:58.494 [10372:11440:1202/145558.494:ERROR:interface_endpoint_client.cc(694)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+12월 05, 2022 16:12:42.653 NEW SESSION
+12월 05, 2022 16:12:42.653 [8844:2284:1205/161242.645:ERROR:device_event_log_impl.cc(215)] [16:12:42.645] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 05, 2022 16:13:53.998 [11824:10264:1205/161353.998:ERROR:device_event_log_impl.cc(215)] [16:13:53.998] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 05, 2022 16:14:51.229 [11824:6036:1205/161451.229:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 05, 2022 17:17:07.611 [11824:10264:1205/171707.611:ERROR:interface_endpoint_client.cc(694)] Message 1 rejected by interface blink.mojom.WidgetHost
+12월 05, 2022 17:17:11.444 [11824:8276:1205/171711.444:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for global.ib-ibi.com failed:
+12월 05, 2022 17:17:11.444 ----- Certificate i=0 (CN=*.ib-ibi.com,O=KBM Group LLC,L=Louisville,ST=Colorado,C=US) -----
+12월 05, 2022 17:17:11.444 ERROR: Time is after notAfter
+12월 05, 2022 17:17:11.444 
+12월 05, 2022 17:17:11.445 
+
+12월 06, 2022 15:17:16.238 NEW SESSION
+12월 06, 2022 15:17:16.238 [2628:12452:1206/151716.237:ERROR:device_event_log_impl.cc(215)] [15:17:16.237] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+
+12월 06, 2022 15:18:36.86 NEW SESSION
+12월 06, 2022 15:18:36.86 [1292:12764:1206/151836.085:ERROR:device_event_log_impl.cc(215)] [15:18:36.085] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 06, 2022 15:19:33.555 [1292:328:1206/151933.555:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 06, 2022 15:51:32.499 [8000:14196:1206/155132.499:ERROR:device_event_log_impl.cc(215)] [15:51:32.499] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 06, 2022 15:52:09.163 [10580:13892:1206/155209.163:ERROR:device_event_log_impl.cc(215)] [15:52:09.163] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 06, 2022 15:52:53.351 [12204:13316:1206/155253.351:ERROR:device_event_log_impl.cc(215)] [15:52:53.351] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 06, 2022 15:53:50.411 [12204:8272:1206/155350.411:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 06, 2022 16:01:16.862 [12204:13316:1206/160116.862:ERROR:interface_endpoint_client.cc(694)] Message 0 rejected by interface blink.mojom.WidgetHost
+12월 06, 2022 16:58:15.928 [12204:14272:1206/165815.927:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from C:\Users\ezen\AppData\Local\Google\Chrome\User Data\Profile 3\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb,IO error: C:\Users\ezen\AppData\Local\Google\Chrome\User Data\Profile 3\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+12월 06, 2022 16:58:17.950 [12204:14272:1206/165817.950:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from C:\Users\ezen\AppData\Local\Google\Chrome\User Data\Profile 3\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb,IO error: C:\Users\ezen\AppData\Local\Google\Chrome\User Data\Profile 3\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+12월 06, 2022 16:58:22.421 [12204:14272:1206/165822.421:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from C:\Users\ezen\AppData\Local\Google\Chrome\User Data\Profile 3\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb,IO error: C:\Users\ezen\AppData\Local\Google\Chrome\User Data\Profile 3\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+12월 06, 2022 16:58:24.446 [12204:14272:1206/165824.446:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from C:\Users\ezen\AppData\Local\Google\Chrome\User Data\Profile 3\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb,IO error: C:\Users\ezen\AppData\Local\Google\Chrome\User Data\Profile 3\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+12월 06, 2022 17:03:19.920 [12204:14272:1206/170319.920:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from C:\Users\ezen\AppData\Local\Google\Chrome\User Data\Profile 3\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb,IO error: C:\Users\ezen\AppData\Local\Google\Chrome\User Data\Profile 3\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+12월 06, 2022 17:03:21.941 [12204:14272:1206/170321.941:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from C:\Users\ezen\AppData\Local\Google\Chrome\User Data\Profile 3\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb,IO error: C:\Users\ezen\AppData\Local\Google\Chrome\User Data\Profile 3\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+12월 06, 2022 17:04:54.630 [12204:4800:1206/170454.630:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from C:\Users\ezen\AppData\Local\Google\Chrome\User Data\Profile 3\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb,IO error: C:\Users\ezen\AppData\Local\Google\Chrome\User Data\Profile 3\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+12월 06, 2022 17:04:56.655 [12204:4800:1206/170456.655:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from C:\Users\ezen\AppData\Local\Google\Chrome\User Data\Profile 3\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb,IO error: C:\Users\ezen\AppData\Local\Google\Chrome\User Data\Profile 3\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+
+12월 08, 2022 15:12:24.999 NEW SESSION
+12월 08, 2022 15:12:24.999 [5876:9608:1208/151224.997:ERROR:device_event_log_impl.cc(215)] [15:12:24.997] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 08, 2022 15:13:22.483 [5876:11344:1208/151322.483:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 08, 2022 16:08:22.508 [5876:9608:1208/160822.508:ERROR:interface_endpoint_client.cc(694)] Message 0 rejected by interface blink.mojom.WidgetHost
+12월 08, 2022 16:09:34.154 [5876:9608:1208/160934.153:ERROR:interface_endpoint_client.cc(694)] Message 0 rejected by interface blink.mojom.WidgetHost
+12월 08, 2022 16:09:44.145 [5876:9608:1208/160944.145:ERROR:interface_endpoint_client.cc(694)] Message 0 rejected by interface blink.mojom.WidgetHost
+12월 08, 2022 16:11:01.555 [5876:9608:1208/161101.555:ERROR:interface_endpoint_client.cc(694)] Message 0 rejected by interface blink.mojom.WidgetHost
+12월 08, 2022 16:11:25.809 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 08, 2022 16:16:17.933 [5876:9608:1208/161617.932:ERROR:interface_endpoint_client.cc(694)] Message 0 rejected by interface blink.mojom.WidgetHost
+12월 08, 2022 16:23:21.365 [5876:9608:1208/162321.365:ERROR:interface_endpoint_client.cc(694)] Message 0 rejected by interface blink.mojom.WidgetHost
+12월 08, 2022 16:23:26.194 [5876:9608:1208/162326.194:ERROR:interface_endpoint_client.cc(694)] Message 0 rejected by interface blink.mojom.WidgetHost
+12월 08, 2022 16:23:33.337 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 08, 2022 16:51:54.967 [5876:9608:1208/165154.967:ERROR:interface_endpoint_client.cc(694)] Message 1 rejected by interface blink.mojom.WidgetHost
+12월 08, 2022 18:00:29.420 [5876:3648:1208/180029.420:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for www.blueb.co.kr failed:
+12월 08, 2022 18:00:29.421 ----- Certificate i=0 (CN=www.blueb.co.kr) -----
+12월 08, 2022 18:00:29.421 ERROR: Time is after notAfter
+12월 08, 2022 18:00:29.422 
+12월 08, 2022 18:00:29.422 
+12월 08, 2022 18:00:29.438 [5876:9608:1208/180029.438:ERROR:interface_endpoint_client.cc(694)] Message 0 rejected by interface blink.mojom.WidgetHost
+12월 08, 2022 18:05:23.689 [5876:9608:1208/180523.689:ERROR:interface_endpoint_client.cc(694)] Message 1 rejected by interface blink.mojom.WidgetHost
+12월 08, 2022 18:05:59.638 [5876:5412:1208/180559.638:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for usb.perl.sh failed:
+12월 08, 2022 18:05:59.639 ----- Certificate i=0 (CN=synology,O=Synology Inc.,L=Taipel,C=TW) -----
+12월 08, 2022 18:05:59.639 ERROR: No matching issuer found
+12월 08, 2022 18:05:59.639 
+12월 08, 2022 18:05:59.639 
+12월 08, 2022 18:06:17.172 [5876:9608:1208/180617.172:ERROR:interface_endpoint_client.cc(694)] Message 0 rejected by interface blink.mojom.WidgetHost
+12월 08, 2022 18:07:27.861 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 08, 2022 18:08:00.51 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 08, 2022 18:19:05.190 [5876:9608:1208/181905.189:ERROR:interface_endpoint_client.cc(694)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+12월 09, 2022 09:43:43.664 NEW SESSION
+12월 09, 2022 09:43:43.664 [6592:13792:1209/094343.663:ERROR:device_event_log_impl.cc(215)] [09:43:43.663] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 09, 2022 09:44:41.443 [6592:11416:1209/094441.443:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 09, 2022 09:51:23.845 [2388:4068:1209/095123.845:ERROR:device_event_log_impl.cc(215)] [09:51:23.845] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 09, 2022 09:52:21.301 [2388:12172:1209/095221.301:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 09, 2022 10:08:06.679 [6808:3864:1209/100806.679:ERROR:device_event_log_impl.cc(215)] [10:08:06.678] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 09, 2022 10:09:04.177 [6808:13832:1209/100904.177:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 09, 2022 10:14:21.792 [7056:11248:1209/101421.792:ERROR:device_event_log_impl.cc(215)] [10:14:21.793] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 09, 2022 10:15:18.730 [7056:11192:1209/101518.729:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 09, 2022 11:09:00.03 [7056:11248:1209/110900.003:ERROR:interface_endpoint_client.cc(694)] Message 0 rejected by interface blink.mojom.WidgetHost
+12월 09, 2022 11:10:12.88 [7056:7332:1209/111012.088:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for smallgroup.co.kr failed:
+12월 09, 2022 11:10:12.89 ----- Certificate i=0 (CN=ssl-certificate-required.com,OU=Dev Team,O=SecureSign Inc,L=Kasan,ST=Seoul,C=KR) -----
+12월 09, 2022 11:10:12.89 ERROR: No matching issuer found
+12월 09, 2022 11:10:12.89 
+12월 09, 2022 11:10:12.89 
+12월 09, 2022 11:17:28.440 [7056:11248:1209/111728.440:ERROR:interface_endpoint_client.cc(694)] Message 0 rejected by interface blink.mojom.WidgetHost
+12월 09, 2022 11:39:54.857 [7056:11248:1209/113954.857:ERROR:CONSOLE(1)] "Request Network.loadNetworkResource failed. {"code":-32602,"message":"Frame not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+12월 09, 2022 12:02:55.837 [2588:7848:1209/120255.837:ERROR:device_event_log_impl.cc(215)] [12:02:55.837] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 09, 2022 12:03:53.78 [2588:13764:1209/120353.078:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 09, 2022 12:17:36.341 [12628:10376:1209/121736.341:ERROR:device_event_log_impl.cc(215)] [12:17:36.341] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 09, 2022 12:18:33.908 [12628:7640:1209/121833.908:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 09, 2022 12:36:07.625 [9836:8744:1209/123607.625:ERROR:device_event_log_impl.cc(215)] [12:36:07.625] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 09, 2022 12:37:05.104 [9836:13920:1209/123705.104:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 09, 2022 12:38:08.428 [15176:5168:1209/123808.428:ERROR:device_event_log_impl.cc(215)] [12:38:08.428] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 09, 2022 12:39:06.173 [15176:1976:1209/123906.173:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 09, 2022 13:02:11.104 [3792:9264:1209/130211.104:ERROR:device_event_log_impl.cc(215)] [13:02:11.104] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 09, 2022 13:03:09.31 [3792:5952:1209/130309.031:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 09, 2022 14:40:47.713 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 09, 2022 17:37:22.58 [3792:9264:1209/173722.058:ERROR:interface_endpoint_client.cc(694)] Message 0 rejected by interface blink.mojom.WidgetHost
+12월 09, 2022 17:38:30.739 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 09, 2022 18:03:05.862 [3792:15820:1209/180305.861:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+12월 19, 2022 15:16:31.312 NEW SESSION
+12월 19, 2022 15:16:31.312 [2724:8620:1219/151631.311:ERROR:device_event_log_impl.cc(215)] [15:16:31.312] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 19, 2022 15:17:28.902 [2724:8256:1219/151728.902:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
